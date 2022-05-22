@@ -1,0 +1,4 @@
+<launch>
+	<node name="sim1" pkg="sim_ur5" type="sim1" />
+
+</launch>

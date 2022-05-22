@@ -1,0 +1,5 @@
+<launch>
+  <include file="$(find ur_gazebo)/launch/ur5.launch"></include>
+	<node name="sim1" pkg="sim_ur5" type="sim1" />
+
+</launch>
